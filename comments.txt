@@ -1,0 +1,4 @@
+1. Use the same bullet for the entire document
+2. List possible problems in bullet in your problem statement section( it needs more explanation as it's a kick start for your project)
+3. Background of the project also needs mre explanation it should include(brief story of ride system, how it get popular, usage, show how the system would solve many problems) 
+in broad terms at least three paragraphs and use citations(it's very important)
