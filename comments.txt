@@ -6,3 +6,21 @@ in broad terms at least three paragraphs and use citations(it's very important)
 4. Scope of the project should clearly shows what your system would do and what would'nt (also write it broadly)
 
 I will see you all the team mates Thursday morning Lab three. For more discussion.
+
+
+Comment -Two
+
+Problem of the statement- Clearly show the problems with bullets
+                        - List out problems
+                        - Convince your solution would solve those problems
+                        - This is your kickstart for the project
+Specific Objective- There is more to add, review specific objectives again
+Scope and Limitation of the project - Read more about scope and write clear scope of your system and Limitations of your system
+System Development Tools- Arrange them in a table
+Problem of the existing system is not described very well. Write more description Do not just put some bullets. That's not how it works
+
+
+I don't understand why there are few commits in this projects. 
+
+Seems you guys stopped working on the project documentation.
+
