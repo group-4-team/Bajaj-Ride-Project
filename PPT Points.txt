@@ -1,13 +1,2 @@
-Statement of the problem: (Current & Proposed)
 
-Objectives (General & Specific)
 
-Scope and limitation
-
-Methodology: (Requirement gathering, System Development)
-
-Significance
-
-Requirement Analysis (Functional & Non-Functional)
-
-System model & Design: (Use case, Activity, sequence, Class, Component,Deployment, SW architecture)
